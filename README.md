@@ -1,4 +1,4 @@
-#Google Books Seacrch
+# Google Books Seacrch
 
 This Mern stack application allows the user to search books using the Google Book API. Then they can save it to their reading list or view more information about the book on Google Books. They can also remove the book from their reading list.
 
@@ -6,7 +6,7 @@ This Mern stack application allows the user to search books using the Google Boo
 
 - clone repo
 - open terminal and redirect to folder
-- run `npm i`
-- run `npm start`
+- enter `npm i` and wait for dependencies to install
+- enter `npm start` to start application
 
 Deployed version: <https://gorgeous-saguaro-98843.herokuapp.com/>
