@@ -1,4 +1,4 @@
-# Google Books Seacrch
+# Google Books Search
 
 This MERN stack application allows the user to search books using the Google Books API. Then they can save a book to their reading list or view more information about it on Google Books. They can also remove a book from their reading list.
 
